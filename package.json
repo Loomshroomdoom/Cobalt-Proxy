@@ -1,0 +1,25 @@
+{
+  "name": "Cobalt",
+  "version": "1.0.0",
+  "description": "Official Cobalt deployment with TompHTTP bare server included.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "files": ["static", "src"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CobaltServices/Cobalt.git"
+  },
+  "keywords": ["official", "ultraviolet", "cobalt", "bare-server", "bypass-filter", "unblocker", "cobaltservices"],
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^1.2.2",
+    "serve-static": "^1.15.0"
+  },
+  "engines": {
+		"npm": ">=8.0.0",
+		"node": ">=16.0.0"
+	}
+}
