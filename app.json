@@ -1,0 +1,7 @@
+{
+    "name": "Cobalt Proxy",
+    "description": "Ultraviolet proxy ultiziing Ultraviolet and bare-server",
+    "repository": "https://github.com/CobaltServices/Cobalt-Proxy",
+    "logo": "https://raw.githubusercontent.com/CobaltServices/Cobalt-Proxy/main/images/favicon.ico",
+    "keywords": ["node", "cobalt", "ultraviolet", "bare-server"]
+  }
