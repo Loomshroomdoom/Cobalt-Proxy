@@ -9,10 +9,10 @@
   "files": ["static", "src"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CobaltServices/Cobalt.git"
+    "url": "git+https://github.com/CobaltServices/Cobalt-Proxy.git"
   },
   "keywords": ["official", "ultraviolet", "cobalt", "bare-server", "bypass-filter", "unblocker", "cobaltservices"],
-  "author": "",
+  "author": "Lincoln Haselton",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@tomphttp/bare-server-node": "^1.2.2",
