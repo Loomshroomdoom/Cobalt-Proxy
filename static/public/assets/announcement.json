@@ -1,0 +1,15 @@
+{
+    "announcements": [
+        "Set your own custom password so no one else can access it.",
+        "Turn on about:blank cloaking in the settings!",
+        "You can change the default search engine in the settings!",
+        "You can now use the proxy!",
+        "You can set a custom shortcut in the settings!"
+    ],
+    "important": [
+        "YOu can now use the proxy!"
+    ],
+    "super": [
+        "Spotify doesn't seem to be working right now."
+    ]
+}
